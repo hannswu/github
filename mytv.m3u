@@ -1,0 +1,71 @@
+
+#EXTM3U
+#EXTINF:-1,NHK华语
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+#EXTINF:-1,ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1,NHK総合
+http://203.162.235.41:16903
+#EXTINF:-1,テレビ朝日
+http://203.162.235.41:16906
+#EXTINF:-1,テレビ東京
+http://203.162.235.41:16908
+#EXTINF:-1,TBSテレビ
+http://203.162.235.41:16907
+#EXTINF:-1,フジテレビ
+http://203.162.235.41:16904
+#EXTINF:-1,日テレ
+http://203.162.235.41:16905
+#EXTINF:-1,日テレNEWS24
+https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1,BS TBS
+http://203.162.235.41:16913
+#EXTINF:-1,BS 朝日
+http://203.162.235.41:16914
+#EXTINF:-1,BSフジ
+http://203.162.235.41:16911
+#EXTINF:-1,BS 東京
+http://203.162.235.41:16915
+#EXTINF:-1,BS 日テレ
+http://203.162.235.41:16912
+#EXTINF:-1,NHK BS1 (BS101)
+http://203.162.235.41:16909
+#EXTINF:-1,NHK BSプレミアム
+http://203.162.235.41:16910
+#EXTINF:-1,NHK Eテレ
+http://203.162.235.41:16901
+#EXTINF:-1,群馬テレビ
+https://movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8
+#EXTINF:-1,Tokyo MX 2
+http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1,CGNTV Japan
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+#EXTINF:-1,德国Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1,德国MDF.1
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+#EXTINF:-1,意大利SuperTV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1,西班牙Canal Parlamento (Updated)
+http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
+#EXTINF:-1,湖南卫视
+http://117.148.187.37/PLTV/88888888/224/3221226162/index.m3u8
+#EXTINF:-1,东方卫视
+http://121.31.30.90:8085/ysten-business/live/dongfangstv/1.m3u8
+#EXTINF:-1,Fox Life
+https://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/master.m3u8
+#EXTINF:-1,National Geographic Abu Dhabi AR ARB
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1,Discovery Max
+http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
+#EXTINF:-1,DISCOVERY
+http://136.243.177.164/DISCOVERYCHANNEL/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1,FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1,ESPN U
+https://gma2.blab.email/espnu.m3u8
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
